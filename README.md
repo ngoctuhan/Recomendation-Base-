@@ -2,7 +2,13 @@
 
 Cơ bản về một recomendation system cơ bản. 
 
-Bộ dữ liệu Movie Len cho việc xây dựng một hệ đề xuất cơ bản.
+Cấu trúc:
+
++ Bộ dữ liệu Movie Len cho việc xây dựng một hệ đề xuất cơ bản.
++ note.ipynp : lí thuyết cơ bản về hệ đề xuất
++ Utils.ipynp: Sample code về đăc trưng TF-IDF
++ *.png các ảnh sử dụng trong file note.ipynp
+
 
 Tài liệu tham khảo:
 
