@@ -1,4 +1,4 @@
-# Recomendation-Base-
+# Recomendation-System-Basic
 
 Cơ bản về một recomendation system cơ bản. 
 
